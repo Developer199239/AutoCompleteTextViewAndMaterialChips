@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">AutoCompleteTextView and Chips</string>
+
+    <string-array name="group1">
+        <item>Group 1</item>
+        <item>Group 2</item>
+        <item>Group 3</item>
+        <item>Group 4</item>
+    </string-array>
+
+    <string-array name="group2">
+        <item>Group_2 1</item>
+        <item>Group_2 2</item>
+        <item>Group_2 3</item>
+        <item>Group_2 4</item>
+    </string-array>
+</resources>
