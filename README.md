@@ -1,4 +1,6 @@
 # AutoCompleteTextViewAndMaterialChips
 Implementation of AutoCompleteTextView and Material Chips component for Android
 
-![](https://gyazo.com/eb5c5741b6a9a16c692170a41a49c858.png =250x250)
+
+
+<img src="https://github.com/Developer199239/AutoCompleteTextViewAndMaterialChips/blob/main/images/sreen1.png" width="200" height="200" />
